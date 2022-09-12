@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Buscador-de-aves-chilenas/static/css/main.87c26931.css",
+    "main.js": "/Buscador-de-aves-chilenas/static/js/main.a4b526e9.js",
+    "static/media/fondo-aves2.jpg": "/Buscador-de-aves-chilenas/static/media/fondo-aves2.93a72266df15ddfbb54d.jpg",
+    "index.html": "/Buscador-de-aves-chilenas/index.html",
+    "main.87c26931.css.map": "/Buscador-de-aves-chilenas/static/css/main.87c26931.css.map",
+    "main.a4b526e9.js.map": "/Buscador-de-aves-chilenas/static/js/main.a4b526e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87c26931.css",
+    "static/js/main.a4b526e9.js"
+  ]
+}
