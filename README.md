@@ -2,7 +2,7 @@ Puedes ver la página en el siguiente enlace:
 (You can see the page at the following link:)
 https://mallenarenas.github.io/Buscador-de-aves-chilenas/
 
-El video que explica como funciona la página lo puedes ver en el ()siguiente enlace:
+El video que explica como funciona la página lo puedes ver en el siguiente enlace:
 (The video that explains how the page works can be seen at the following link:)
 https://www.youtube.com/watch?v=wEmhV4iTGas
 
